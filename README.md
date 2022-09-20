@@ -1,5 +1,21 @@
 # font-subset
 
+## Environment
+
+You can build the environment with docker.
+
+### build
+
+```bash
+sh docker/build.sh
+```
+
+### run
+
+```bash
+sh docker/run.sh
+```
+
 ## How to use
 
 ```bash
